@@ -50,7 +50,7 @@
   <project name="platform/external/libdrm" path="external/libdrm" remote="github" upstream="refs/tags/android12-radxa-rkr14.2" revision="56b0b2765344f0d229b459621e51a08a2a5c8864"/>
   <project name="rk/platform/external/ntfs-3g" path="external/ntfs-3g" remote="github" upstream="refs/tags/android12-radxa-rkr14.2" revision="f66254d9d2eef0fa145a8639a128a8e61f6b6d37"/>
   <project name="rk/platform/system/rk_tee_user" path="external/rk_tee_user" remote="github" upstream="refs/tags/android12-radxa-rkr14.2" revision="b266e9a7348fc0856416e6aebc43a63f2dae8bf4"/>
-  <project name="linux/app/rkaiq_tool_server" path="external/rkaiq_tool_server" remote="github" upstream="refs/tags/Android12_Radxa_rk12_12.1" revision="061eb10c523bf01ac934a335270ac1f72f553ca2"/>
+  <project name="external/camera_engine_rkaiq/rkaiq_tool_server" path="external/rkaiq_tool_server" remote="gitlab" upstream="refs/tags/Android12_Radxa_rkr14.2" revision="Android12_Radxa_rkr14.2"/>
   <project name="rk/rktoolbox" path="external/rktoolbox" remote="github" upstream="refs/tags/android12-radxa-rkr14.2" revision="1ffae9357a70a96a526e38b94579d9dec373c7c5"/>
   <project name="platform/external/skia" path="external/skia" remote="github" upstream="refs/tags/android12-radxa-rkr14.2" revision="60ea1b89eb521f69be5464f6f551133659773437"/>
   <project name="platform/external/speex" path="external/speex" remote="github" upstream="refs/tags/android12-radxa-rkr14.2" revision="350d0f03933a2c17712ab5222725a46cee0a16b3"/>
