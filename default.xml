@@ -905,7 +905,7 @@
   <project groups="pdk-fs" name="platform/packages/apps/Car/SystemUI" path="packages/apps/Car/SystemUI" revision="8db03c3c65c802eff9ada6c63e17f12c60b921e3" upstream="refs/tags/android-12.1.0_r14"/>
   <project groups="pdk-fs" name="platform/packages/apps/Car/SystemUpdater" path="packages/apps/Car/SystemUpdater" revision="4aa8e9a668c0034aa210d8a28915f83ea5f123ce" upstream="refs/tags/android-12.1.0_r14"/>
   <project groups="pdk-fs" name="platform/packages/apps/Car/libs" path="packages/apps/Car/libs" revision="0fb4e0fe9f5a1dca37eb3be2ab279601af2336de" upstream="refs/tags/android-12.1.0_r14"/>
-  <project groups="pdk-fs" name="platform/packages/apps/Car/systemlibs" path="packages/apps/Car/systemlibs" revision="82b5844b33cf4863c9f061d408dd201ffb086ae3" upstream="refs/tags/android-12.1.0_r14"/>
+  <project groups="pdk-fs" name="platform/packages/apps/Car/systemlibs" path="packages/apps/Car/systemlibs" revision="82b5844b33cf4863c9f061d408dd201ffb086ae3" upstream="refs/tags/android-platform-12.1.0_r14"/>
   <project groups="pdk-fs" name="platform/packages/apps/Car/tests" path="packages/apps/Car/tests" revision="70ef61a08c5df9cb9d7877f8e8fdd2b0e8d18710" upstream="refs/tags/android-12.1.0_r14"/>
   <project groups="pdk-cw-fs,pdk-fs" name="platform/packages/apps/CarrierConfig" path="packages/apps/CarrierConfig" revision="9243eff9cafbe6c03d9749db006a55a534acb58a" upstream="refs/tags/android-12.1.0_r14"/>
   <project groups="pdk-cw-fs,pdk-fs" name="platform/packages/apps/CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" revision="c6d4d3a320646dd262de9f73ae60936f31da6bab" upstream="refs/tags/android-12.1.0_r14"/>
