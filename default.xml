@@ -1133,6 +1133,8 @@
   <project groups="tools" name="platform/tools/test/openhst" path="tools/test/openhst" revision="f7b2e0c6e7d321e3d859f4de6dff13ad13df7c11" upstream="refs/tags/android-12.1.0_r14"/>
   <project groups="pdk,tradefed" name="platform/tools/tradefederation/prebuilts" path="tools/tradefederation/prebuilts" revision="477f1e58308678cfca2559bf9af19be1c1e6da24" upstream="refs/tags/android-12.1.0_r14"/>
   <project groups="tools,pdk" name="platform/tools/treble" path="tools/treble" remote="aosp" revision="1b18efe53304a3c3d7112e91250b885ed5437a9e" upstream="refs/tags/android-12.1.0_r14"/>
+  <project name="platform/tools/treble" path="tools/treble" remote="aosp" upstream="refs/tags/android-12.1.0_r14"/>
+
   <project groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" name="platform/tools/trebuchet" path="tools/trebuchet" revision="6d2c711220d72620090941cf14ac33037d402523" upstream="refs/tags/android-12.1.0_r14"/>
   <project name="toolchain/benchmark" revision="8865b07dcd100bf8e90d4f24b9b44a93270ed047" upstream="refs/tags/android-12.1.0_r14"/>
   <project groups="pdk" name="toolchain/llvm-project" path="external/llvm-project" revision="664b187160dc951c2cea3b69f92decf358d8e75a" upstream="refs/tags/android-12.1.0_r14"/>
